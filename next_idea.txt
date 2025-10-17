@@ -1,0 +1,10 @@
+- you are a teacher you receive 20 stories, you want to be fair but u want to read the least amount of stories - what should u do 
+in order to sign that these are trustworthy scores - what data is needed for the teacher so the teacher can be convinced that 
+this is s a fair evaluation?
+
+- damage the story manually
+- 10 - 10 stories, copies that enel will create will damage them in a subtle way, and fatima will do it in a
+different subtle way, and eac hwill figure out how the other damaged the story
+
+- the high level idea is:
+    you manually rate the story, and instead of the individiual rating, how can we do it in bulk?
