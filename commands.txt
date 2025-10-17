@@ -1,0 +1,3 @@
+conda activate eval-pipeline
+cd ~/EvaluationPipeline/Evaluation\ Pipeline/
+python Evaluation_Pipeline.py
