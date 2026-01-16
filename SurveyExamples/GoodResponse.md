@@ -18,9 +18,9 @@ The section *“Idioms Tested”* lists the target idioms corresponding to each 
 ---
 
 ### Idioms Tested
-- **Story 1:** *The grass is always greener (on the other side)*  
-- **Story 2:** *The elephant in the room*  
-- **Story 3:** *Don’t count your chickens before they hatch*  
+- **Story 1:**  *Don’t count your chickens before they hatch*
+- **Story 2:**  *Out of sight, out of mind*
+- **Story 3:**   *The elephant in the room*  
 
 ---
 
